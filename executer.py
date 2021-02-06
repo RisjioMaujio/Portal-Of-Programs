@@ -1794,8 +1794,9 @@ def exiting():
     print("\t\t\t\t ;) Before closing The Program a Feedback Form Will be Open in Your Browser in Just Few Moments"+"\n"*2)
     print("\t\t\t\t After Opeing The Feedback Form The program Will get Automatic Close")
     webbrowser.open("https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAARX1D3JUMFEzTERZMlEzRkowVkZJUkVSTDZVQzdGMy4u")
+    print("\n"*2+"\t\t\t  This Project is Created By : 'Shubham Maurya' ( Risjio Maujio )")
     print("\n"*5)
-    print("\t\t\t\t\t\t\t\t\t\t\tThank's And Have A Great Day ;) ;) ;) ;) ;) ;) ;) "+"\n"*8)
+    print("\t\t\t\t\t\t\t\t\tThank's And Have A Great Day ;) ;) ;) ;) ;) ;) ;) "+"\n"*8)
     exiter=str(input("Press Any Key To Continue : "))
     exit()
     
