@@ -12,7 +12,9 @@ Portal of Programs Via Python That Contains Many Programs For Ease of Us
 
    This Program Have Collection Of Programs Which Can Do Many Things For You ;)
 
-
+  Have A Feature of Sign In And Sign Up with Text Message Verification On Screen
+   
+   At last Feedback Form Will Beopen W hich Will Help To Develop This Projcet 
 
 
 
@@ -36,4 +38,4 @@ Portal of Programs Via Python That Contains Many Programs For Ease of Us
  To Run This Project You Must Have Python 3.x 
  
  
-
+Created By : Shubham Maurya (RisJio Maujio)
