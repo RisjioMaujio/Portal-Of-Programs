@@ -4,8 +4,7 @@
 Portal of Programs Via Python That Contains Many Programs For Ease of Us
 
 
-
-                                                                   Welcome to Portal Of Programs
+                                                            Welcome to Portal Of Programs
                                   
                                   
 
@@ -24,16 +23,17 @@ Portal of Programs Via Python That Contains Many Programs For Ease of Us
 
 
 
-     ____________________________________________________________________________________________________________________________________
-    |                                                                                                                                    |
-    |      (1) - Series Genrator --> This Program Can Genrate Series For Your Through Limit And Terms                                    |
-    |                                                                                                                                    |
-    |                                                                                                                                    |
-    |      (2) - Web Portal --> This Program Conatins Many Website And Their Direct Links To Visit Your Favourite Website                |
-    |                                                                                                                                    |
-    |____________________________________________________________________________________________________________________________________|    
+     ______________________________________________________________________________________________________________________
+    |                                                                                                                     |
+    |  (1) - Series Genrator --> This Program Can Genrate Series For Your Through Limit And Terms                         |
+    |                                                                                                                     |
+    |                                                                                                                     |
+    |  (2) - Web Portal --> This Program Conatins Many Website And Their Direct Links To Visit Your Favourite Website     |
+    |                                                                                                                     |
+    |_____________________________________________________________________________________________________________________|    
     
     
  To Run This Project You Must Have Python 3.x 
  
  
+
