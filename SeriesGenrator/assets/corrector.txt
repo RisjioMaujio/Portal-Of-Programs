@@ -1,0 +1,32 @@
+
+
+		Hey ;) I Got An Error ;) 
+
+
+					Please See The Following Cases I am Sure That You Will Find Your Mistake While Giving Values on The Applied Operator
+
+            Operator Applied             Error That Can Be Occured On Applied Operator            Soluntion Can Be Made
+                                                
+                                                                                                   Swap the Value Of End Term And Lower Term
+                                                End Terms is Lower Than Start Term  
+
+                                                                                                   Reinput The Start And End Terms
+            Addition                            Repeating Term is Negative							
+                                                                                                   Reinput The Repeating Term
+ 																		
+Error Occurred At Choosen Operator,Solution That Can Program Made if You Need,Code To Execute Corresponding Solutions
+
+      																		
+Start Limit Is Greater Than End Limit,Interchange Value of Start Limit and End Limit,Interchange
+
+      							
+Start Limit is In Negative,Change To Postive Sign Of Start Limit,Start_Positive
+
+      																		
+End Limit is Negative,Change To Postive Sign Of End Limit,End_Positive
+
+      																
+Both Limit is Negative,Change To Postive Sign Of Start Limit and End Limit,Start_End_Positive
+
+      																	
+Start Limit is Equal To End Limit,Re Input Of Values Of Start And Limit ,ReInput_Limit

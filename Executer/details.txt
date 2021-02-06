@@ -1,0 +1,70 @@
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+                                                                   Welcome to Portal Of Programs
+                                  
+                                  
+
+
+
+   This Program Have Collection Of Programs Which Can Do Many Things For You ;)
+
+
+
+
+
+     In This Program There Are Following Programs Linked And They Are as follows : 
+
+
+
+
+
+
+     ____________________________________________________________________________________________________________________________________
+    |                                                                                                                                    |
+    |      (1) - Series Genrator --> This Program Can Genrate Series For Your Through Limit And Terms                                    |
+    |                                                                                                                                    |
+    |                                                                                                                                    |
+    |      (2) - Web Portal --> This Program Conatins Many Website And Their Direct Links To Visit Your Favourite Website                |
+    |                                                                                                                                    |
+    |____________________________________________________________________________________________________________________________________|                                                                                                                                    
+
+
+
+
+
+
+    But First If Are You New You Have To SignUp for Using The Program or If You Are Existing User Just Simply SignIn In The Portal 
+
+            And Use Your Favourite Programs.
+
+
+
+
+
+
+  --> SignUp / SignIn Functions Are As follows :
+
+
+
+
+
+      _____________________________________________________________________________________________________________________________________
+     |                                                                                                                                     |
+     |      Functions Names                                               Correspondance Code To Use That Type Function                    |
+     |_____________________________________________________________________________________________________________________________________|
+     |                                                                                                                                     |
+     |       Sign In                                                                        Signin                                         |
+     |                                                                                                                                     |
+     |       Sign Up                                                                        Signup                                         |
+     |                                                                                                                                     |
+     |       Exit                                                                           Exit                                           |
+     |_____________________________________________________________________________________________________________________________________|
+
+
+
+
+
+
+  

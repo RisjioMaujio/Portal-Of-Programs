@@ -1,0 +1,55 @@
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+                                                                   Welcome to Series Genrator
+                                  
+                                  
+
+
+
+   This Program Can Genrate Series For You Through Two Different Ways :
+
+
+
+
+   ____________________________________________________________________________________________________________________________________
+  |                                                                                                                                    |
+  |      (1) - Limit --> In That You Can Genrate The Series Through In Desired Limit Via Many Arthematic Operators              |
+  |                                                                     |
+  |                                                           |
+  |       (2) - Terms --> In That You Can Genrate The Series Through Upto Desired Nth Terms Via Many Arthematic Operators        |
+  |____________________________________________________________________________________________________________________________________|
+
+
+
+
+
+
+
+
+   To Run The Series Genrator In your Desired Format Please Follow Following Instructions : -
+
+
+
+
+   _______________________________________________________________________________________________________________________________________
+  |                                                                                                                                       |
+  |      Type of Series Want                            Cooresponding Code To Execute                                                     |
+  |                                                                                                                                       |
+  |                                                                                                                                       |
+  |      --> For Series In Limit                             --> Limit                                                                    |
+  |                                                                                                                                       |
+  |      --> For Series In Terms                             --> Terms                                                                    |
+  |                                                                                                                                       |
+  |                                                                                                                                       |
+  |      --> For Exit                                        -->  Exit                                                                    |
+  |                                                                                                                                       |
+  |_______________________________________________________________________________________________________________________________________|
+
+
+
+
+
+
+

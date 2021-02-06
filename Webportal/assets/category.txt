@@ -1,0 +1,33 @@
+
+
+
+  --> Websites Categories 
+
+
+      _____________________________________________________________________________________________________________________________________
+     |                                                                                                                                     |
+     |      Websites Categories Names                                          Correspondance Code To Use That Type Websites               |
+     |_____________________________________________________________________________________________________________________________________|
+     |                                                                                                                                     |
+     |       Search Engines                                                                    Search                                      |
+     |                                                                                                                                     |
+     |       Google Services                                                                   Gservice                                    |
+     |                                                                                                                                     |
+     |       Microsft Services                                                                 Mservice                                    |
+     |                                                                                                                                     |
+     |       Social Websites                                                                   Social                                      |
+     |                                                                                                                                     |
+     |       Entertainment Websites                                                            Entertainment                               |
+     |                                                                                                                                     |
+     |       Shooping Websites                                                                 Shooping                                    |
+     |                                                                                                                                     |
+     |       Fooding Websites                                                                  Fooding                                     |
+     |                                                                                                                                     |
+     |       Travelling Websites                                                               Travelling                                  |
+     |                                                                                                                                     |
+     |                                                                                                                                     |
+     |       Exit                                                                              Exit                                        |
+     |_____________________________________________________________________________________________________________________________________|
+
+
+
