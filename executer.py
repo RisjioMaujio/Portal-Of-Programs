@@ -454,7 +454,7 @@ def search():
                 if(fun=="Home"):
                     print("\n" * 4)
                     print("\t \t     \t  Home Page of " + str(option) + " is Opening ......")
-                    webbrowser.open('https://www.google.com/?#q=')
+                    webbrowser.open('https://google.com/search?q=%s')
                     print("\n" * 4)
                 
                     print("\t\t\tReturning To Category of Website Selection ")
