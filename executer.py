@@ -1875,7 +1875,7 @@ def signup():
         print("\n"*4)
         name = str(input("\t Please Provide Your Name That You Want To Entered at The Time Of Sign In Of the Portal Of Programs : "))
         print("\n"*2)
-        password = str(input("\t Please Provide Your Name That You Want To Entered at The Time Of Sign In Of Portal of Programs : "))
+        password = str(input("\t Please Provide Your Password That You Want To Entered at The Time Of Sign In Of Portal of Programs : "))
         print("\n"*2)
         otp=''
         for i in range(4):
